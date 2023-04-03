@@ -3,10 +3,21 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
+#container {
+    width: 78%;
+    margin: 0 auto;
+}
 /*INIZIO HEADER */
+
+h1{
+    font-size: 40px ;
+    margin-top: 16px;
+}
 #logo {
     width: 200px;
-    margin-left: 150px;
+    margin-left: 160px;
     margin-top: 50px;
 }
 
@@ -42,3 +53,101 @@
     font-size: 12px ;
 }
 /* FINE FONTI FOTO */
+
+
+
+/* PARAGRAFI */
+.giallo {
+    background-color: yellow;
+}
+
+p {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+ul {
+    margin-bottom: 20px;
+
+}
+/* FINE PARAGRAFI */
+
+
+
+/* INIZIO TABELLA */
+
+table, th, td {
+    border: none;
+    border-collapse: collapse;
+    
+}
+
+.tab1 {
+    
+    text-align: left;
+    width: 25%;
+}
+
+.tab2 {
+    
+    text-align: left;
+    width: 50%;
+    
+}
+
+#tabtitle {
+    background-color: rgb(17, 130, 205);
+    color: white;
+}
+
+.tabblu {
+    
+    background-color: rgb(26, 220, 220);
+    
+}
+
+
+/* FINE TABELLA */
+
+
+
+/* INIZIO FOOTER */
+
+#suggerimenti {
+
+    font-size: 18px ;
+    color: gray;
+    padding-bottom: 15px;
+
+}
+
+#foot1 {
+    background-image: url(../img/monitor.jpg);
+    width: 270px; 
+    height: 220px;
+    background-repeat: no-repeat;
+    padding-left: 18px;
+    padding-top: 10px;
+    color: white;
+    font-size: 22px;
+
+
+}
+
+#foot2 {
+    background-image: url(../img/graph.jpg);
+    width: 270px; 
+    height: 220px;
+    background-repeat: no-repeat;
+    padding-left: 18px;
+    padding-top: 10px;
+    color: white;
+    font-size: 22px;
+
+
+}
+
+
+
+/* FINE FOOTER */
+
