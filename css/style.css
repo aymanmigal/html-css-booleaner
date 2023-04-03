@@ -32,6 +32,13 @@
     font-size: 10px ;
     font-weight: 4px ;
     color: gray;
+    margin-bottom: 20px;
 }
 
 /* FINE TITOLO/AUTORE/DATA */
+
+/* INIZIO FONTI FOTO */
+#fonti {
+    font-size: 12px ;
+}
+/* FINE FONTI FOTO */
