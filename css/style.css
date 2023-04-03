@@ -35,13 +35,11 @@ h1{
 /* INIZIO TITOLO/AUTORE/DATA */
 #autore {
     font-size: 16px ;
-    font-weight: 4px ;
     color: gray;
 }
 
 #data {
     font-size: 10px ;
-    font-weight: 4px ;
     color: gray;
     margin-bottom: 20px;
 }
