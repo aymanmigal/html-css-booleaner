@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*INIZIO HEADER */
+#logo {
+    width: 200px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+#header {
+    background-color: rgb(43, 122, 149) ;
+    background-image: url('../img/pattern.png');
+    background-size: 450px ;
+    padding-bottom: 30px;
+    height: 110px;
+
+}
+/*FINE HEADER */
+
+
+/* INIZIO TITOLO/AUTORE/DATA */
+#autore {
+    font-size: 16px ;
+    font-weight: 4px ;
+    color: gray;
+}
+
+#data {
+    font-size: 10px ;
+    font-weight: 4px ;
+    color: gray;
+}
+
+/* FINE TITOLO/AUTORE/DATA */
